@@ -131,13 +131,13 @@ SwayamPay uses **Spring Security** to protect APIs and user data.
 
 ## 🏠 Home Page
 
-<img src="file_00000000ebc8722fbc2b630ad5a514bc" width="100%" alt="Home Page"/>
+<img src="Home(2).jpg" width="100%" alt="Home Page"/>
 
 ---
 
 ## ℹ️ About Page
 
-<img src="file_00000000d658720ca7a6985b717c676d" width="100%" alt="About Page"/>
+<img src="About.jpg" width="100%" alt="About Page"/>
 
 ---
 
@@ -149,13 +149,13 @@ SwayamPay uses **Spring Security** to protect APIs and user data.
 
 ## 💳 Payment Processing
 
-<img src="file_0000000077a0722f8cb396315e517e7b" width="100%" alt="Payment Processing"/>
+<img src="Payment.jpg" width="100%" alt="Payment Processing"/>
 
 ---
 
 ## 📑 Transaction History
 
-<img src="file_000000000a5c71f59e5fe4112406246b" width="100%" alt="Transaction History"/>
+<img src="Transaction.jpg" width="100%" alt="Transaction History"/>
 
 ---
 
