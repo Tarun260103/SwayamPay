@@ -143,7 +143,7 @@ SwayamPay uses **Spring Security** to protect APIs and user data.
 
 ## 📊 Dashboard
 
-<img src="file_00000000b62871f5ac9d7124f03564cd" width="100%" alt="Dashboard"/>
+<img src="Analytics.jpg" width="100%" alt="Dashboard"/>
 
 ---
 
